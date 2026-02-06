@@ -1,0 +1,50 @@
+Automation Tester/SDET Preparation Guidelines
+--------------------------------------------
+
+Primary skills set (7-8 rating)
+----------------------
+1) Manual testing skills - STLC/Agile, Bug life cycle, test cases, test data etc...
+2) Agile - Jira
+3) SQL basics
+4) Programming - Java
+5) Selenium WebDriver ( Web Applications)
+6) TestNG
+7) Frameworks - Hybrid framework
+8) Maven, Git, GitHub, Jenkins
+9) Cucumber BDD 
+10) Unix/Linux commands
+
+Secondary skill set (5-6 rating) - upgrade skills
+----------------
+1) API Testing - Postman & RestAssured
+2) Mobile app testing - Appium
+3) Performance testing - JMeter
+
+How to prepare for an interview
+-----------------------------
+1) Learn ( Live sessions, Youtube channels, Udemy , Blogs etc...)
+2) Practice- Examples, coding examples, Projects
+3) Interview Questions ( 5- 10 questions on daily)
+4) Prepare resume/cv and upload them atleast 2 portals.
+	Linked-in
+	Linked-in groups
+5) Keep attending interviews
+
+-------------------------------------------------
+
+Java Practice
+	https://www.w3schools.com/java/
+
+Test cases for practice/project
+	https://automationexercise.com/
+
+
+SQL Practice
+Tutorial: https://www.w3schools.com/sql/sql_select.asp
+Practice: https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+
+
+
+
+
+
