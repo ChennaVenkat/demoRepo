@@ -12,13 +12,19 @@ public class Geeks {
 	            if (n % i == 0) {
 	                return false; }
 	        return true;
+	        
 	    }
 	    // Driver Program
+	    
+	  
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		  if (isPrime(11))
+		  {
 	            System.out.println(" true");
+	            System.out.println("Niajdkdnjd");
+		  }
 	        else
 	            System.out.println(" false");
 	        if (isPrime(15))
